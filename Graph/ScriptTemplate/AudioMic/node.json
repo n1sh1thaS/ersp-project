@@ -1,0 +1,31 @@
+{
+  "name": "Audio from Microphone",
+  "id": "c87cfddd-787a-a4dd-c73c-71602e6a67e5",
+  "inputs": [],
+  "outputs": [
+    {
+      "name": "Microphone Audio Stream",
+      "type": "Audio Stream",
+      "description": "Audio stream from the user's recording process (requires microphone access)",
+      "nameKey": "graph_audio_from_microphone_output_microphoneaudiostream",
+      "descriptionKey": "graph_audio_from_microphone_output_microphoneaudiostream_description",
+      "displayType": "Audio stream",
+      "displayTypeKey": "graph_type_audiostream"
+    }
+  ],
+  "scriptSupport": "js",
+  "scriptAPIVersion": "1.0.0",
+  "js": "CGMicSource.js",
+  "category": "Audio",
+  "description": "Obtain audio stream from the device's microphone.",
+  "nodeEvent": ["onStart"],
+  "productTypes": ["EHD", "EHO", "EHI"],
+  "builtinClass": "AudioGeneralNode",
+  "audioNodeName": "MicSourceNode",
+  "onlineWebsite": "graph_microphone_website",
+  "nameKey": "graph_audio_from_microphone_name",
+  "categoryKey": "graph_category_audio",
+  "descriptionKey": "graph_audio_from_microphone_description",
+  "version": "1.0.0",
+  "contentFeature": ["micinput"]
+}

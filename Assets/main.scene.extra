@@ -1,0 +1,404 @@
+[
+  {
+    "guid": {
+      "a": "7924f1d3-91d8-c188-c1bc-e548c1bfd010",
+      "b": ""
+    },
+    "objGuid": "Guid(10180214583793075010, 13085474825770890632)",
+    "extraType": "Entity",
+    "name": "Camera",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "",
+    "isHeadBindingRenderRoot": false
+  },
+  {
+    "guid": {
+      "a": "5c82d8bc-a0a9-4b35-feef-6b15f250f901",
+      "b": ""
+    },
+    "objGuid": "Guid(14145000689903744101, 6111037265461598351)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "linkage": 0
+  },
+  {
+    "guid": {
+      "a": "073d10be-2652-ce77-9faf-fba3d14a9081",
+      "b": ""
+    },
+    "objGuid": "Guid(18393534764065644695, 16547619468206596491)",
+    "extraType": "Camera",
+    "name": "Camera",
+    "rttiType": "Camera",
+    "version": "0.4.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "enableMask": false,
+    "maskTexture": "00000000-0000-0000-0000-000000000802",
+    "physicalFovy": true,
+    "fov": 60,
+    "cachedInputTexture": "00000000-0000-0000-0000-00000000004b",
+    "isAnimatorBound": false
+  },
+  {
+    "guid": {
+      "a": "99cf74d3-da22-7bba-12f1-bb5086c19dde",
+      "b": ""
+    },
+    "objGuid": "Guid(8235238043598186243, 16840308208679013795)",
+    "extraType": "Entity",
+    "name": "General",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "",
+    "isHeadBindingRenderRoot": false
+  },
+  {
+    "guid": {
+      "a": "74492f45-8590-5948-f536-046b459d24bb",
+      "b": ""
+    },
+    "objGuid": "Guid(12629985132416961300, 14387677276955654788)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "linkage": 0
+  },
+  {
+    "guid": {
+      "a": "4531ca10-deaa-68e3-32a9-ba230e859b87",
+      "b": ""
+    },
+    "objGuid": "Guid(14792803682663561050, 6161520050080348315)",
+    "extraType": "EffectNode",
+    "name": "EffectNode",
+    "rttiType": "EffectNode",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "type": 5,
+    "sortMethod": 2
+  },
+  {
+    "guid": {
+      "a": "8e3e9aec-f617-4755-91d2-00018d695449",
+      "b": ""
+    },
+    "objGuid": "Guid(815069582473778930, 3860102513852982437)",
+    "extraType": "Entity",
+    "name": "Directional Light",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "",
+    "isHeadBindingRenderRoot": false
+  },
+  {
+    "guid": {
+      "a": "252bb1bc-cbf6-f8e8-d5b3-77bcf4912c48",
+      "b": ""
+    },
+    "objGuid": "Guid(15367742060568528024, 10146237304508457363)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      338,
+      0,
+      0
+    ],
+    "linkage": 0
+  },
+  {
+    "guid": {
+      "a": "14ef7071-7a07-7162-6acf-c0ce2c937da7",
+      "b": ""
+    },
+    "objGuid": "Guid(8739102965005804130, 6461487404246441657)",
+    "extraType": "DirectionalLight",
+    "name": "Directional Light",
+    "rttiType": "DirectionalLight",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "shadowAdvanceExpanded": false
+  },
+  {
+    "guid": {
+      "a": "59752231-6ead-4e64-fd46-965fa70cb5a3",
+      "b": ""
+    },
+    "objGuid": "Guid(11406181728386468509, 5972158861532600762)",
+    "extraType": "Entity",
+    "name": "Environment Light",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_utility",
+    "isHeadBindingRenderRoot": false
+  },
+  {
+    "guid": {
+      "a": "de9750ff-aac3-1935-f99e-e931a7af5a5a",
+      "b": ""
+    },
+    "objGuid": "Guid(2038139312557020282, 1886311758165782682)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      89.99998474121094,
+      0
+    ],
+    "linkage": 0
+  },
+  {
+    "guid": {
+      "a": "a3acbd16-d5e4-5928-fde0-1c8ab3429930",
+      "b": ""
+    },
+    "objGuid": "Guid(16737500510660696093, 7610174286501797273)",
+    "extraType": "EnvironmentLighting",
+    "name": "EnvironmentLighting",
+    "rttiType": "Envmap",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "a24b3635-fba3-4ba4-440f-f14f2a39d01f",
+      "b": ""
+    },
+    "objGuid": "Guid(7804645008006591229, 16512442608611572391)",
+    "extraType": "Entity",
+    "name": "2D Camera",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_2D_foreground",
+    "isHeadBindingRenderRoot": false
+  },
+  {
+    "guid": {
+      "a": "0f2609d2-4b0d-b299-94e0-f7314fb2fe57",
+      "b": ""
+    },
+    "objGuid": "Guid(6577569656113334107, 9685683331807870896)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "linkage": 0
+  },
+  {
+    "guid": {
+      "a": "7adcd651-4ffd-9043-f7d4-b415f7fef0ca",
+      "b": ""
+    },
+    "objGuid": "Guid(8236977977699811693, 3311745161230867357)",
+    "extraType": "Camera",
+    "name": "Camera",
+    "rttiType": "Camera",
+    "version": "0.4.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "enableMask": false,
+    "maskTexture": "00000000-0000-0000-0000-000000000802",
+    "physicalFovy": true,
+    "fov": 60,
+    "cachedInputTexture": "00000000-0000-0000-0000-00000000004b",
+    "isAnimatorBound": false
+  },
+  {
+    "guid": {
+      "a": "f6ca3d8f-5123-cb60-b75d-874f130f7e8b",
+      "b": ""
+    },
+    "objGuid": "Guid(815021381094723917, 7653047800078708153)",
+    "extraType": "Entity",
+    "name": "2D Foreground",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "",
+    "isHeadBindingRenderRoot": false
+  },
+  {
+    "guid": {
+      "a": "5b0727bb-d250-fab7-3a85-fa89c0b12587",
+      "b": ""
+    },
+    "objGuid": "Guid(5065802445493009779, 13135883548813854091)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "linkage": 0
+  },
+  {
+    "guid": {
+      "a": "11e3d362-df94-25b3-2195-09378f4622c7",
+      "b": ""
+    },
+    "objGuid": "Guid(13277702236176402969, 17175771765922063005)",
+    "extraType": "EffectNode",
+    "name": "EffectNode",
+    "rttiType": "EffectNode",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "type": 6,
+    "sortMethod": 1
+  },
+  {
+    "guid": {
+      "a": "55f33233-6d2d-fe3f-5cce-57ae59bed498",
+      "b": ""
+    },
+    "objGuid": "Guid(17098330795062647993, 3150713453649780616)",
+    "extraType": "Entity",
+    "name": "2D Text",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_2D_foreground",
+    "isHeadBindingRenderRoot": false
+  },
+  {
+    "guid": {
+      "a": "fceae3a0-c1d0-7fb8-0f2c-f1381584f52b",
+      "b": ""
+    },
+    "objGuid": "Guid(10539018492177441046, 11819936503253288362)",
+    "extraType": "ScreenTransform",
+    "name": "ScreenTransform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "horizontalConstraint": 2,
+    "verticalConstraint": 2,
+    "linkageScale": 0,
+    "inspectorUICtx": "{}"
+  },
+  {
+    "guid": {
+      "a": "6103c16a-f3e9-9d6f-5da5-a9779de8306f",
+      "b": ""
+    },
+    "objGuid": "Guid(14145170700183154481, 17262598913605044112)",
+    "extraType": "TextJS",
+    "name": "TextJS",
+    "rttiType": "JSScriptComponent",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "inspectorUICtx": "{}"
+  }
+]

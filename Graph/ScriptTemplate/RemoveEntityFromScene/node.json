@@ -1,0 +1,53 @@
+{
+	"name": "Remove Scene Object",
+	"id": "06d04cc2-b9a1-9348-0ac0-80632055a1f6",
+	"inputs": [
+		{
+			"name": "Start Execution",
+			"type": "Pulse",
+			"item_type": "",
+			"description": "Execute removal operation",
+			"displayType": "Exec",
+			"nameKey": "graph_remove_scene_object_input_startexecution",
+			"descriptionKey": "graph_remove_scene_object_input_startexecution_description",
+			"displayTypeKey": "graph_type_exec"
+		},
+		{
+			"name": "Scene Object",
+			"type": "Entity",
+			"description": "Scene object to be removed",
+			"displayType": "Scene Object",
+			"nameKey": "graph_remove_scene_object_input_sceneobject",
+			"descriptionKey": "graph_remove_scene_object_input_sceneobject_description",
+			"displayTypeKey": "graph_type_sceneobject"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Execute After Removal",
+			"description": "Execute after removal",
+			"type": "Pulse",
+			"displayType": "Exec",
+			"nameKey": "graph_remove_scene_object_output_executeafterremoval",
+			"descriptionKey": "graph_remove_scene_object_output_executeafterremoval_description",
+			"displayTypeKey": "graph_type_exec"
+		}
+	],
+	"js": "CGRemoveEntityFromScene.js",
+	"version": "1.0.0",
+	"SDKVersion": "16.4.0",
+	"category": "Utility",
+	"description": "Remove the scene object (no longer render it)",
+	"productTypes": [
+		"EHO",
+		"EHD",
+		"EHI"
+	],
+	"nodeEvent": [
+		"beforeStart",
+		"resetOnRecord"
+	],
+	"nameKey": "graph_remove_scene_object_name",
+	"categoryKey": "graph_category_utility",
+	"descriptionKey": "graph_remove_scene_object_description"
+}
