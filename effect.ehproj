@@ -1,7 +1,7 @@
 {
   "name": "Untitled",
-  "lastModified": "Thu, 16 Jan 2025 17:48:58 GMT",
-  "version": "4.9.2",
+  "lastModified": "Tue, 04 Feb 2025 19:01:34 GMT",
+  "version": "4.10.0",
   "renderNames": {
     "0": "Default Layer",
     "1": "Layer 1",
@@ -68,9 +68,9 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 171677463,
-  "durationCreation": 4973217,
-  "durationBackground": 1835158,
+  "durationToCreate": 1817633601,
+  "durationCreation": 19214908,
+  "durationBackground": 10472209,
   "effectHint": "",
   "templateID": "templateID_none",
   "overwriteBuiltinGAN": 1,
@@ -96,7 +96,5 @@
   },
   "fromNewUserGuide": false,
   "lastSceneView": 0,
-  "selectedIdList": [
-    "amz:Guid(17098330795062647993, 3150713453649780616)"
-  ]
+  "selectedIdList": []
 }

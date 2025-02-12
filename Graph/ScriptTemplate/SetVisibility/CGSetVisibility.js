@@ -1,13 +1,6 @@
-/**
- * @file CGSetVisibility.js
- * @author liujiacheng
- * @date 2021/8/20
- * @brief CGSetVisibility.js
- * @copyright Copyright (c) 2021, ByteDance Inc, All Rights Reserved
- */
-
-const {BaseNode} = require('./BaseNode');
-const APJS = require('./amazingpro');
+const {BaseNode} = require('../Utils/BaseNode');
+const APJS = require('../../../amazingpro');
+const {EffectReset} = require('../../../EffectReset');
 
 class CGSetVisibility extends BaseNode {
   constructor() {
@@ -20,13 +13,12 @@ class CGSetVisibility extends BaseNode {
       return;
     }
 
-    if (sys.setterNodeInitValueMap && !this.sys.setterNodeGuidMap.has(object.guid.toString())) {
+    if (!EffectReset.getInstance().propertyInitValueMap.has(object.guid.toString())) {
       const callBackFuncMap = new Map();
       for (let i = 0; i < callbackFunctionArray.length; ++i) {
         callBackFuncMap.set(callbackFunctionArray[i], [...argsArray[i]]);
       }
-      sys.setterNodeGuidMap.add(object.guid.toString());
-      sys.setterNodeInitValueMap.set(object.guid, callBackFuncMap);
+      EffectReset.getInstance().propertyInitValueMap.set(object.guid.toString(), callBackFuncMap);
     }
   }
 
@@ -44,11 +36,11 @@ class CGSetVisibility extends BaseNode {
             [[comps.enabled]]
           );
 
-          const compsEnable = CGSetVisibility.compsEnableMap.get(comps.guid.toString());
+          const compsEnable = EffectReset.getInstance().compsEnableMap.get(comps.guid.toString());
           if (compsEnable === undefined) {
-            CGSetVisibility.compsEnableMap.set(comps.guid.toString(), comps.enabled);
+            EffectReset.getInstance().compsEnableMap.set(comps.guid.toString(), comps.enabled);
           }
-          comps.enabled = enable && CGSetVisibility.compsEnableMap.get(comps.guid.toString());
+          comps.enabled = enable && EffectReset.getInstance().compsEnableMap.get(comps.guid.toString());
         }
       }
     }
@@ -65,11 +57,11 @@ class CGSetVisibility extends BaseNode {
             [[comps.enabled]]
           );
 
-          const compsEnable = CGSetVisibility.compsEnableMap.get(comps.guid.toString());
+          const compsEnable = EffectReset.getInstance().compsEnableMap.get(comps.guid.toString());
           if (compsEnable === undefined) {
-            CGSetVisibility.compsEnableMap.set(comps.guid.toString(), comps.enabled);
+            EffectReset.getInstance().compsEnableMap.set(comps.guid.toString(), comps.enabled);
           }
-          comps.enabled = enable && CGSetVisibility.compsEnableMap.get(comps.guid.toString());
+          comps.enabled = enable && EffectReset.getInstance().compsEnableMap.get(comps.guid.toString());
         }
       }
     }
@@ -88,7 +80,7 @@ class CGSetVisibility extends BaseNode {
     return this.isVisible;
   }
 
-  execute(sys, dt) {
+  execute(index) {
     if (this.inputs[1] !== null && this.inputs[1] !== undefined) {
       const object = this.inputs[1]();
       const visible = this.inputs[2]();
@@ -125,5 +117,4 @@ class CGSetVisibility extends BaseNode {
     this.isVisible = true;
   }
 }
-CGSetVisibility.compsEnableMap = new Map();
 exports.CGSetVisibility = CGSetVisibility;

@@ -6,8 +6,8 @@
  * @copyright Copyright (c) 2022, ByteDance Inc, All Rights Reserved
  */
 
-const APJS = require('./amazingpro');
-const {BaseNode} = require('./BaseNode');
+const APJS = require('../../../amazingpro');
+const {BaseNode} = require('../Utils/BaseNode');
 
 class CGMicSource extends BaseNode {
   constructor() {

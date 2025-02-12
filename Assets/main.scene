@@ -213,6 +213,7 @@ entities:
           __class: Map
           TextGlowMaterial: {localId: 1, path: 00000000-0000-0000-0000-000000001559--00000000-0000-0000-0000-000000001559.material}
           TextNeonGlowMaterial: {localId: 1, path: 00000000-0000-0000-0000-000000001568--00000000-0000-0000-0000-000000001568.material}
+          artText: {localId: 1, path: 00000000-0000-0000-0000-000000008000--00000000-0000-0000-0000-000000008000.ata}
           autoSortingOrder: true
           backgroundEnable: false
           bloomColor: {r: 1, g: 1, b: 1, a: 1}
@@ -222,6 +223,7 @@ entities:
           enableRTL: true
           fontSize: 72
           fontType: !<str> Classic.ttf
+          forceUpdateArtText: false
           glow: false
           glowHorizontalAngle: 0
           glowIntensity: 0.5
@@ -300,6 +302,7 @@ entities:
           shadowSmoothVersion: 1
           sortingOrder: 0
           textAdaptiveCanvasEnabled: false
+          textinputLock: false
           underline: false
           verticalAlignment: 1
           writingDirection: 0
@@ -312,9 +315,9 @@ msaa:
   __class: MSAAMode
   value: _4X
 jsScriptSystems:
-  - !<str> js/GraphSystem.js
-  - !<str> js/JSAssetSystem.js
   - !<str> js/AmazingProRuntime.js
+  - !<str> js/Graph/GraphSystem.js
+  - !<str> js/JSAssetSystem.js
 enableMultiTouch: false
 enableLightMultiPass: false
 pixelLightCount: 4

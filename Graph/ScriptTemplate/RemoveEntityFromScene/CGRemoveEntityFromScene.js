@@ -1,5 +1,6 @@
-const {BaseNode} = require('./BaseNode');
-const APJS = require('amazingpro.js');
+const {BaseNode} = require('../Utils/BaseNode');
+const {GraphManager} = require('../Utils/GraphManager');
+const APJS = require('../../../amazingpro');
 
 class CGRemoveEntityFromScene extends BaseNode {
   constructor() {
@@ -44,10 +45,10 @@ class CGRemoveEntityFromScene extends BaseNode {
     if (isCreatedByGraph && entityPrefabGuid) {
       this.removeEntityFromScene(scene, entity);
       // decrease global prefab instance count if from prefab
-      let currentCount = this.sys.prefabInstanceCountMap.get(entityPrefabGuid) || 0;
+      let currentCount = GraphManager.getInstance().prefabInstanceCountMap.get(entityPrefabGuid) || 0;
       currentCount--;
       currentCount = Math.max(currentCount, 0);
-      this.sys.prefabInstanceCountMap.set(entityPrefabGuid, currentCount);
+      GraphManager.getInstance().prefabInstanceCountMap.set(entityPrefabGuid, currentCount);
     } else {
       const parent = entity.parent;
       const index = this.findIndexInParent(entity);
@@ -122,7 +123,7 @@ class CGRemoveEntityFromScene extends BaseNode {
     let result = false;
     let prefabGuid = undefined;
     const entityGuid = entity.guid.toString();
-    this.sys.prefabGuidToInstanceMap.forEach((instanceSet, srcPrefabGuid) => {
+    GraphManager.getInstance().prefabGuidToInstanceMap.forEach((instanceSet, srcPrefabGuid) => {
       if (result) {
         return;
       }

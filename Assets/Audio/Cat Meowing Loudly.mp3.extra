@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "c8639cf7-63d2-d308-092f-302623480c23",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "Cat Meowing Loudly",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS",
+    "resourceFilePath": "/Users/nishi/Downloads/Cat Meowing Loudly.mp3"
+  }
+]

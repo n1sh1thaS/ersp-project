@@ -1,0 +1,64 @@
+{
+	"name": "Volume",
+	"id": "7abbc486-1c1a-db4a-6084-dd0ba540253c",
+	"inputs": [
+		{
+			"name": "Audio",
+			"type": "Audio Stream",
+			"description": "The audio stream you want to use in the effect",
+			"displayType": "Audio Stream",
+			"nameKey": "graph_volume_input_audio",
+			"descriptionKey": "graph_volume_input_audio_description",
+			"displayTypeKey": "graph_type_audiostream"
+		},
+		{
+			"name": "Volume",
+			"type": "Double",
+			"default_value": 100,
+			"range": [
+				[
+					0,
+					100,
+					1
+				]
+			],
+			"description": "The volume of the audio stream. Value range: 0 (silence) to 100 (max).",
+			"displayType": "Number",
+			"nameKey": "graph_volume_input_volume",
+			"descriptionKey": "graph_volume_input_volume_description",
+			"displayTypeKey": "graph_type_number"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Audio",
+			"type": "Audio Stream",
+			"description": "The connected audio stream. Connect it to a speaker to play.",
+			"displayType": "Audio Stream",
+			"nameKey": "graph_volume_output_audio",
+			"descriptionKey": "graph_volume_output_audio_description",
+			"displayTypeKey": "graph_type_audiostream"
+		}
+	],
+	"scriptSupport": "js",
+	"scriptAPIVersion": "1.0.0",
+	"js": "CGAudioGain.js",
+	"category": "Audio",
+	"description": "Set the volume of the audio stream.",
+	"productTypes": [
+		"EHO",
+		"EHD",
+		"EHI"
+	],
+	"nodeEvent": [
+		"beforeStart",
+		"onUpdate"
+	],
+	"builtinClass": "AudioGeneralNode",
+	"audioNodeName": "GainNode",
+	"version": "1.0.0",
+	"onlineWebsite": "graph_volume_website",
+	"nameKey": "graph_volume_name",
+	"categoryKey": "graph_category_audio",
+	"descriptionKey": "graph_volume_description"
+}

@@ -1,0 +1,33 @@
+{
+	"name": "Detection Output",
+	"id": "97d2ff06-da28-99d0-f87f-d8da67bb8cbc",
+	"inputs": [
+		{
+			"name": "Audio",
+			"type": "Audio Stream",
+			"description": "The audio stream you want to play and detect",
+			"displayType": "Audio Stream",
+			"nameKey": "graph_detection_output_input_audio",
+			"descriptionKey": "graph_detection_output_input_audio_description",
+			"displayTypeKey": "graph_type_audiostream"
+		}
+	],
+	"outputs": [],
+	"audioNodeName": "SinkNode",
+	"scriptSupport": "js",
+	"scriptAPIVersion": "1.0.0",
+	"js": "CGAudioExtractorOut.js",
+	"category": "Audio",
+	"description": "Play and detect the audio stream with no sound.",
+	"productTypes": [
+		"EHO",
+		"EHD",
+		"EHI"
+	],
+	"builtinClass": "AudioGeneralNode",
+	"version": "1.0.0",
+	"onlineWebsite": "graph_detection_output_website",
+	"nameKey": "graph_detection_output_name",
+	"categoryKey": "graph_category_audio",
+	"descriptionKey": "graph_detection_output_description"
+}

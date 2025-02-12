@@ -6,8 +6,8 @@
  * @copyright Copyright (c) 2021, ByteDance Inc, All Rights Reserved
  */
 
-const {BaseNode} = require('./BaseNode');
-const APJS = require('./amazingpro');
+const {BaseNode} = require('../Utils/BaseNode');
+const APJS = require('../../../amazingpro');
 
 class CGOnUpdate extends BaseNode {
   constructor() {

@@ -1,0 +1,67 @@
+{
+	"name": "Volume Detection",
+	"id": "e63475de-fb84-2bc7-0f04-f867d9315632",
+	"description": "Detect the volume of the audio source in realtime.",
+	"inputs": [
+		{
+			"name": "Audio",
+			"type": "Audio Stream",
+			"displayType": "Audio Stream",
+			"description": "The audio stream you want to detect the volume",
+			"nameKey": "graph_volume_detection_input_audio",
+			"descriptionKey": "graph_volume_detection_input_audio_description",
+			"displayTypeKey": "graph_type_audiostream"
+		},
+		{
+			"name": "Enabled",
+			"type": "Bool",
+			"default_value": true,
+			"displayType": "Boolean",
+			"description": "Enable this node or not",
+			"nameKey": "graph_volume_detection_input_enabled",
+			"descriptionKey": "graph_volume_detection_input_enabled_description",
+			"displayTypeKey": "graph_type_boolean"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Audio",
+			"type": "Audio Stream",
+			"displayType": "Audio Stream",
+			"description": "The connected audio stream. Connect it to a speaker to play or connect it to a Detection Output to play with no sound.",
+			"nameKey": "graph_volume_detection_output_audio",
+			"descriptionKey": "graph_volume_detection_output_audio_description",
+			"displayTypeKey": "graph_type_audiostream"
+		},
+		{
+			"name": "Volume Value",
+			"type": "Double",
+			"displayType": "Number",
+			"description": "The volume detection result. 0 for silence, 100 for the loudest sound of the audio stream.",
+			"nameKey": "graph_volume_detection_output_volumevalue",
+			"descriptionKey": "graph_volume_detection_output_volumevalue_description",
+			"displayTypeKey": "graph_type_number"
+		}
+	],
+	"category": "Audio",
+	"productTypes": [
+		"EHO",
+		"EHD",
+		"EHI"
+	],
+	"nodeEvent": [
+		"onUpdate"
+	],
+	"scriptSupport": "js",
+	"scriptAPIVersion": "1.0.0",
+	"js": "CGVolumeDetection.js",
+	"version": "1.0.0",
+	"amazingVersion": "10.40.0",
+	"builtinClass": "AudioExtractorNode",
+	"audioNodeName": "volume_detection",
+	"SDKVersion": "10.5.0",
+	"onlineWebsite": "graph_volume_detection_website",
+	"nameKey": "graph_volume_detection_name",
+	"categoryKey": "graph_category_audio",
+	"descriptionKey": "graph_volume_detection_description"
+}

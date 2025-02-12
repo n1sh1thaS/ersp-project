@@ -1,0 +1,19 @@
+[
+  {
+    "guid": {
+      "a": "5c38ac92-03f9-9204-1cd0-a9ec2dac3af2",
+      "b": ""
+    },
+    "extraType": "ResItemVSSubgraph",
+    "name": "BoolState",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": "",
+    "assetPackageID": "7293732841232285698",
+    "resourceFilePath": "/Users/nishi/Library/Application Support/EffectHouse/package/7293732841232285698/BoolState.ssubgraph",
+    "combinedWithNodeLibary": true,
+    "assetID": "7293732841232285698"
+  }
+]
