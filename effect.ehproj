@@ -1,6 +1,6 @@
 {
   "name": "Untitled",
-  "lastModified": "Tue, 04 Feb 2025 19:01:34 GMT",
+  "lastModified": "Fri, 21 Feb 2025 22:42:15 GMT",
   "version": "4.10.0",
   "renderNames": {
     "0": "Default Layer",
@@ -68,9 +68,9 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 1817633601,
-  "durationCreation": 19214908,
-  "durationBackground": 10472209,
+  "durationToCreate": 3130358015,
+  "durationCreation": 1878323628,
+  "durationBackground": 1866393623,
   "effectHint": "",
   "templateID": "templateID_none",
   "overwriteBuiltinGAN": 1,
@@ -83,9 +83,9 @@
     "toolName": "Effect House",
     "version": "4.9.2",
     "osName": "macos",
-    "timeStamp": "Tue, 14 Jan 2025 18:07:41 GMT"
+    "timeStamp": "Thu, 16 Jan 2025 17:09:37 GMT"
   },
-  "projectID": "d2e182df-cf9a-1919-1ccf-9ebed3e7642c",
+  "projectID": "ca46dd67-4543-0701-753a-2def845503cd",
   "isNewCreatedProject": true,
   "soundStartTime": 0,
   "LastVideoInput": {
@@ -96,5 +96,15 @@
   },
   "fromNewUserGuide": false,
   "lastSceneView": 0,
-  "selectedIdList": []
+  "selectedIdList": [
+    "amz:Guid(12484428568802144316, 1684648126920485527)"
+  ],
+  "effectSize": 1193043,
+  "effectPackagePath": "/Users/aj/Library/Application Support/EffectHouse/submit/package/effect.zip",
+  "perfTested": true,
+  "effectUploadResult": {
+    "uri": "/obj/tiktok-effect-public-us/effects/effect/3GHjQa2B3xmLeGZyUQcMRA_0e4593b2408d2e302b148156e1132c11",
+    "url": "https://lf16-effect.tiktokcdn.com/obj/tiktok-effect-public-us/effects/effect/3GHjQa2B3xmLeGZyUQcMRA_0e4593b2408d2e302b148156e1132c11"
+  },
+  "soundSelectedDuration": 0
 }

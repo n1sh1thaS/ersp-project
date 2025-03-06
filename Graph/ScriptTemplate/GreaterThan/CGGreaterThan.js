@@ -1,23 +1,22 @@
 /**
- * @file CGOnStart.js
+ * @file CGGreaterThan.js
  * @author
- * @date 2021/8/17
- * @brief CGOnStart.js
+ * @date 2021/8/15
+ * @brief CGGreaterThan.js
  * @copyright Copyright (c) 2021, ByteDance Inc, All Rights Reserved
  */
 
 const {BaseNode} = require('../Utils/BaseNode');
 const APJS = require('../../../amazingpro');
 
-class CGOnStart extends BaseNode {
+class CGGreaterThan extends BaseNode {
   constructor() {
     super();
   }
-  onStart(sys) {
-    if (this.nexts[0] !== undefined) {
-      this.nexts[0]();
-    }
+
+  getOutput() {
+    return this.inputs[0]() > this.inputs[1]();
   }
 }
 
-exports.CGOnStart = CGOnStart;
+exports.CGGreaterThan = CGGreaterThan;
