@@ -248,8 +248,13 @@ entities:
           innerShadowGradientRangeMode: 1
           innerShadowSmooth: 0
           innerShadowTexture: {localId: 1, path: 00000000-0000-0000-0000-00000000001d--00000000-0000-0000-0000-00000000001d.png}
+          innerShadowTextureAlpha: 1
+          innerShadowTextureAngle: 0
+          innerShadowTextureFlipX: false
+          innerShadowTextureFlipY: false
           innerShadowTextureOffsetX: 0
           innerShadowTextureOffsetY: 0
+          innerShadowTextureRange: -1
           innerShadowTextureScale: 1
           input: !<str> "gyatt "
           italic: false
@@ -285,9 +290,15 @@ entities:
           letterGradientRangeMode: 1
           letterSpacing: 0
           letterTexture: {localId: 1, path: 00000000-0000-0000-0000-00000000001c--00000000-0000-0000-0000-00000000001c.png}
+          letterTextureAlpha: 1
+          letterTextureAngle: 0
+          letterTextureFlipX: false
+          letterTextureFlipY: false
           letterTextureOffsetX: 0
           letterTextureOffsetY: 0
+          letterTextureRange: -1
           letterTextureScale: 1
+          lineBreakType: 1
           lineSpacing: 0
           outlineAlpha: 1
           outlineColorRGBA: {r: 0, g: 0, b: 0, a: 1}

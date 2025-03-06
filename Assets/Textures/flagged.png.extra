@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "8f93fafb-d0d4-1414-1dd4-fc7aff86d50b",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "12-removebg-preview",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "resourceFilePath": "/Users/nishi/Desktop/filter-visuals/12-removebg-preview.png"
+  }
+]
