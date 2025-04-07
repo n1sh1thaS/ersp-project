@@ -470,7 +470,7 @@ entities:
     name: !<str> flagged
     guid: {a: 3264177893138996389, b: 14046633972815300224}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 12}
       - __class: ImageRenderer
@@ -507,7 +507,7 @@ entities:
     name: !<str> likely-flagged
     guid: {a: 16739771791351120775, b: 10763464029886579867}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 15}
       - __class: ImageRenderer
@@ -544,7 +544,7 @@ entities:
     name: !<str> safe
     guid: {a: 18176765261404237801, b: 3988765890050148795}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 14}
       - __class: ImageRenderer
