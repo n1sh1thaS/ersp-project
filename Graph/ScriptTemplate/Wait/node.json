@@ -5,7 +5,6 @@
 		{
 			"name": "Enter",
 			"type": "Pulse",
-			"item_type": "",
 			"description": "The input execution that triggers this node",
 			"displayType": "Exec",
 			"nameKey": "graph_wait_for_seconds_input_enter",
@@ -15,7 +14,6 @@
 		{
 			"name": "Start",
 			"type": "Double",
-			"item_type": "",
 			"default_value": "0",
 			"description": "The number of seconds to wait before executing the next node",
 			"displayType": "Number",
@@ -28,7 +26,6 @@
 		{
 			"name": "Next",
 			"type": "Pulse",
-			"item_type": "",
 			"description": "Execute the next node when time is up",
 			"displayType": "Exec",
 			"nameKey": "graph_wait_for_seconds_output_next",
@@ -36,12 +33,8 @@
 			"displayTypeKey": "graph_type_exec"
 		}
 	],
-	"lua": "CGWait.lua",
-	"scriptAPIVersion": "1.0.0",
 	"js": "CGWait.js",
 	"version": "1.0.1",
-	"amazingVersion": "10.40.0",
-	"luaFuncName": "CGWait",
 	"category": "Time",
 	"description": "Take an execution after certain seconds.",
 	"nodeEvent": [

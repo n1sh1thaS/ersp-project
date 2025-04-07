@@ -1,7 +1,7 @@
 [
   {
     "guid": {
-      "a": "b8f47fbc-c4ff-867b-bd5f-0fca4a73076e",
+      "a": "22a0557c-3612-08bf-b186-f150a7a7fadc",
       "b": ""
     },
     "objGuid": "Guid(10180214583793075010, 13085474825770890632)",
@@ -19,7 +19,7 @@
   },
   {
     "guid": {
-      "a": "2720ccb3-e201-7dfa-0900-87ff1b670eb1",
+      "a": "398ea078-95eb-41aa-e52b-2a17ade668fb",
       "b": ""
     },
     "objGuid": "Guid(14145000689903744101, 6111037265461598351)",
@@ -40,7 +40,7 @@
   },
   {
     "guid": {
-      "a": "8575e1eb-466a-5311-2f90-ccaaffe7d105",
+      "a": "a29269db-d619-608b-cd8a-ace60ebec3ea",
       "b": ""
     },
     "objGuid": "Guid(18393534764065644695, 16547619468206596491)",
@@ -61,7 +61,7 @@
   },
   {
     "guid": {
-      "a": "4d26fb7e-f4b9-9850-3042-1c70b90422f9",
+      "a": "d3bad1b1-9613-0ac9-76bd-6a9934ae319c",
       "b": ""
     },
     "objGuid": "Guid(8235238043598186243, 16840308208679013795)",
@@ -79,7 +79,7 @@
   },
   {
     "guid": {
-      "a": "de002137-fa96-4729-1a63-cf7343a7f449",
+      "a": "2dbdd4e0-8857-c09e-046c-541ee97c147a",
       "b": ""
     },
     "objGuid": "Guid(12629985132416961300, 14387677276955654788)",
@@ -100,7 +100,7 @@
   },
   {
     "guid": {
-      "a": "cd5e662c-3898-5ff3-42ab-f13526ee508d",
+      "a": "a228b439-c2c4-de4b-1b85-d71b06252452",
       "b": ""
     },
     "objGuid": "Guid(14792803682663561050, 6161520050080348315)",
@@ -117,7 +117,7 @@
   },
   {
     "guid": {
-      "a": "f1623ddf-e9cf-a883-ceaa-655e66ca8ea6",
+      "a": "4d8173ed-9d0b-1d3f-79df-64143ed07631",
       "b": ""
     },
     "objGuid": "Guid(815069582473778930, 3860102513852982437)",
@@ -135,7 +135,7 @@
   },
   {
     "guid": {
-      "a": "5f115f2d-a873-9ce9-ae5c-11d198d14301",
+      "a": "d7551f43-c1bc-9236-b2d8-4377126d8097",
       "b": ""
     },
     "objGuid": "Guid(15367742060568528024, 10146237304508457363)",
@@ -156,7 +156,7 @@
   },
   {
     "guid": {
-      "a": "1cb86d2e-baca-5f5f-29e3-1906a78cd38c",
+      "a": "53f512ff-9c39-9738-1199-e8af151a5d57",
       "b": ""
     },
     "objGuid": "Guid(8739102965005804130, 6461487404246441657)",
@@ -172,7 +172,7 @@
   },
   {
     "guid": {
-      "a": "20e95c09-2c14-8106-a6f5-d48ebdbce731",
+      "a": "4ee674e4-7f98-9411-9c0c-e13fd2a574c9",
       "b": ""
     },
     "objGuid": "Guid(11406181728386468509, 5972158861532600762)",
@@ -190,7 +190,7 @@
   },
   {
     "guid": {
-      "a": "12d68501-054f-7d5e-1764-f5e29f2a7150",
+      "a": "382b4adc-a0cc-260f-49e6-116bd0b46d49",
       "b": ""
     },
     "objGuid": "Guid(2038139312557020282, 1886311758165782682)",
@@ -211,7 +211,7 @@
   },
   {
     "guid": {
-      "a": "990176ca-2a37-5c66-96e5-51dc3df92ced",
+      "a": "4735e77f-a154-5c19-7021-73b7b51949a9",
       "b": ""
     },
     "objGuid": "Guid(16737500510660696093, 7610174286501797273)",
@@ -226,7 +226,7 @@
   },
   {
     "guid": {
-      "a": "09d33c57-d352-9409-c3a1-2f8ce741ecb9",
+      "a": "e90559cd-5fb5-0d85-e077-d7764742b024",
       "b": ""
     },
     "objGuid": "Guid(10898917320575736383, 16194065318285787057)",
@@ -244,7 +244,7 @@
   },
   {
     "guid": {
-      "a": "0d5ecd56-ccec-82b3-202a-592b6c7debb6",
+      "a": "f9a85c3c-db66-aa28-d0b9-7794bfb0b2de",
       "b": ""
     },
     "objGuid": "Guid(16521229294334433074, 17113926419790533810)",
@@ -265,7 +265,7 @@
   },
   {
     "guid": {
-      "a": "1be267a3-bea2-d71c-ebec-788b4fbbc2c7",
+      "a": "6be2119c-3b6b-8eaf-1bf2-77aedac98615",
       "b": ""
     },
     "objGuid": "Guid(5785604663416205848, 7379079887701345176)",
@@ -286,7 +286,7 @@
   },
   {
     "guid": {
-      "a": "aed52546-0a53-972c-1eeb-3a0a4ca58816",
+      "a": "98cae8c1-956f-c41a-0c7b-b5132402cde5",
       "b": ""
     },
     "objGuid": "Guid(1459351289002642422, 12152627948835535024)",
@@ -304,7 +304,7 @@
   },
   {
     "guid": {
-      "a": "bc78b74d-d774-9286-1c8d-8b462b65668a",
+      "a": "1c602cc6-d91c-f07c-7fe9-5e1b0ac42121",
       "b": ""
     },
     "objGuid": "Guid(8379331560859337223, 17654149033230326696)",
@@ -324,7 +324,7 @@
   },
   {
     "guid": {
-      "a": "a222babd-3fa6-7dc3-d16c-b87e97c23be6",
+      "a": "6f66ec19-3050-9857-013b-f19182b07eb6",
       "b": ""
     },
     "objGuid": "Guid(6287515311357216670, 2067359992409245870)",
@@ -341,7 +341,7 @@
   },
   {
     "guid": {
-      "a": "f3847b3d-636e-d5aa-6a83-e9193b5e2449",
+      "a": "7a84d6cd-db23-e942-9c1a-a4f195dbcc52",
       "b": ""
     },
     "objGuid": "Guid(4630644655770198908, 5044457826051690644)",
@@ -359,7 +359,7 @@
   },
   {
     "guid": {
-      "a": "ef2f14c0-2b73-7bbe-bec0-6914e46c07d3",
+      "a": "4fb982e6-f299-af6c-1d9e-84e99242d123",
       "b": ""
     },
     "objGuid": "Guid(2181068332470004509, 17142163819793996439)",
@@ -379,7 +379,7 @@
   },
   {
     "guid": {
-      "a": "bc0750db-6ca9-17d0-6f10-0504b59e82c8",
+      "a": "b8093651-ed99-0a30-d473-ccce7a95912d",
       "b": ""
     },
     "objGuid": "Guid(9313680924597460644, 12993630010464025513)",
@@ -406,7 +406,7 @@
   },
   {
     "guid": {
-      "a": "2bef576c-934f-ae44-f705-00155bac42c3",
+      "a": "ff878027-a895-47bb-dadc-110607ba0bbd",
       "b": ""
     },
     "objGuid": "Guid(12484428568802144316, 1684648126920485527)",
@@ -424,7 +424,7 @@
   },
   {
     "guid": {
-      "a": "1df8e803-234f-bcb8-1029-fdbe03477ce2",
+      "a": "b0645846-3c67-068a-79fc-d411cf57a515",
       "b": ""
     },
     "objGuid": "Guid(3408131057540478619, 11558884639363592071)",
@@ -444,7 +444,7 @@
   },
   {
     "guid": {
-      "a": "6ea0d072-25e9-a905-8415-f111e6561bda",
+      "a": "66409373-9d2f-eea6-3bc3-2f0097072ad8",
       "b": ""
     },
     "objGuid": "Guid(13568182644486813205, 5323719605999356832)",
@@ -471,7 +471,332 @@
   },
   {
     "guid": {
-      "a": "ada928ec-2a8a-e31d-26eb-5b24700f37e8",
+      "a": "648d9fab-2c4d-a0b7-dad8-afdd1f518366",
+      "b": ""
+    },
+    "objGuid": "Guid(13063385815219659259, 3545601945052113802)",
+    "extraType": "Entity",
+    "name": "main-view",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "e268571a-b5ba-a6e0-743b-7a9ca6255ec9",
+      "b": ""
+    },
+    "objGuid": "Guid(8594798519286652469, 7048630089993831853)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "horizontalConstraint": 2,
+    "verticalConstraint": 2,
+    "linkageScale": 0,
+    "inspectorUICtx": "{}"
+  },
+  {
+    "guid": {
+      "a": "cc9db5fe-b442-e380-5ec3-16493dbe3510",
+      "b": ""
+    },
+    "objGuid": "Guid(6287959030395178199, 14710233331328314789)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "3a53d693-22ed-5468-d65e-5fe477191256",
+      "b": ""
+    },
+    "objGuid": "Guid(3264177893138996389, 14046633972815300224)",
+    "extraType": "Entity",
+    "name": "flagged",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "975faf8c-3579-f412-0bfd-54f281585088",
+      "b": ""
+    },
+    "objGuid": "Guid(1965834703793031548, 1305620588432441991)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "horizontalConstraint": 2,
+    "verticalConstraint": 2,
+    "linkageScale": 0,
+    "inspectorUICtx": "{}"
+  },
+  {
+    "guid": {
+      "a": "0c69c1f6-387f-5a7d-15e4-07d02aa18d64",
+      "b": ""
+    },
+    "objGuid": "Guid(6936565551232441645, 4162054805384526724)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "ffb1ee5c-ba81-bcc9-e7ad-f4c882b82094",
+      "b": ""
+    },
+    "objGuid": "Guid(12630806357006485670, 5319347019647297971)",
+    "extraType": "Entity",
+    "name": "instructions",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "d56e2897-e53e-513e-5f77-aaf518c61aa4",
+      "b": ""
+    },
+    "objGuid": "Guid(4632023217145660172, 9911843043755445392)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "horizontalConstraint": 2,
+    "verticalConstraint": 2,
+    "linkageScale": 0,
+    "inspectorUICtx": "{}"
+  },
+  {
+    "guid": {
+      "a": "c97eff60-1cc7-3895-1dc8-ab62d88ac51d",
+      "b": ""
+    },
+    "objGuid": "Guid(1030010640530224111, 2427436870781269397)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "42e71eef-01ed-46ab-0c3f-74ccff8d29a4",
+      "b": ""
+    },
+    "objGuid": "Guid(18176765261404237801, 3988765890050148795)",
+    "extraType": "Entity",
+    "name": "safe",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "21623002-8573-bca2-4504-8fad27ae1fcb",
+      "b": ""
+    },
+    "objGuid": "Guid(15944121385599422023, 11768617983200534706)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "horizontalConstraint": 2,
+    "verticalConstraint": 2,
+    "linkageScale": 0,
+    "inspectorUICtx": "{}"
+  },
+  {
+    "guid": {
+      "a": "8c635a9a-6fce-b719-d4f5-a81b4517afa0",
+      "b": ""
+    },
+    "objGuid": "Guid(17673118589187235500, 6264350949527160453)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "17c17f75-adce-6ec5-915e-1b1f7ce158ff",
+      "b": ""
+    },
+    "objGuid": "Guid(16739771791351120775, 10763464029886579867)",
+    "extraType": "Entity",
+    "name": "likely-flagged",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "826ee77a-6be3-c2b9-d6a2-a9c17f4a649f",
+      "b": ""
+    },
+    "objGuid": "Guid(2037056555465784871, 816577743263061418)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "horizontalConstraint": 2,
+    "verticalConstraint": 2,
+    "linkageScale": 0,
+    "inspectorUICtx": "{}"
+  },
+  {
+    "guid": {
+      "a": "97b3e81a-c754-d1c3-3cce-f6899d26732d",
+      "b": ""
+    },
+    "objGuid": "Guid(10829810749280625771, 17348880918265723290)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "83f76c7c-b2e4-de54-9819-0e5586f0262b",
       "b": ""
     },
     "objGuid": "Guid(16090883182741148376, 9140626076370330556)",
@@ -489,7 +814,7 @@
   },
   {
     "guid": {
-      "a": "6b689410-1ae9-fc03-2673-9cdd16dab49c",
+      "a": "ed32d061-1529-7e21-fa75-d83c81825930",
       "b": ""
     },
     "objGuid": "Guid(9243567796184666728, 17738043647258125463)",
@@ -510,7 +835,7 @@
   },
   {
     "guid": {
-      "a": "e578003e-43a8-53bc-8813-831746968093",
+      "a": "074aba0a-d53e-26da-f6b0-2863ef73acd6",
       "b": ""
     },
     "objGuid": "Guid(12269497186453775654, 9470600164922020522)",

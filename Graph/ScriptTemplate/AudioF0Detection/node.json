@@ -52,11 +52,8 @@
 	"nodeEvent": [
 		"onUpdate"
 	],
-	"scriptSupport": "js",
-	"scriptAPIVersion": "1.0.0",
 	"js": "CGF0Detection.js",
 	"version": "1.0.0",
-	"amazingVersion": "10.40.0",
 	"builtinClass": "AudioExtractorNode",
 	"audioNodeName": "f0_detection",
 	"SDKVersion": "10.5.0",

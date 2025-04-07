@@ -1,6 +1,6 @@
 {
   "name": "Untitled",
-  "lastModified": "Thu, 06 Mar 2025 17:18:30 GMT",
+  "lastModified": "Thu, 13 Mar 2025 16:49:46 GMT",
   "version": "4.11.2",
   "renderNames": {
     "0": "Default Layer",
@@ -68,9 +68,9 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 3130358015,
-  "durationCreation": 1878323628,
-  "durationBackground": 1866393623,
+  "durationToCreate": 4837209571,
+  "durationCreation": 1880966001,
+  "durationBackground": 1868288228,
   "effectHint": "",
   "templateID": "templateID_none",
   "overwriteBuiltinGAN": 1,
@@ -95,10 +95,8 @@
     "resourceUrl": "./BuiltinResource/preview/video/preview_face/idle/1person_faceidle_1.mp4"
   },
   "fromNewUserGuide": false,
-  "lastSceneView": 0,
-  "selectedIdList": [
-    "amz:Guid(12484428568802144316, 1684648126920485527)"
-  ],
+  "lastSceneView": 1,
+  "selectedIdList": [],
   "effectSize": 1193043,
   "effectPackagePath": "/Users/aj/Library/Application Support/EffectHouse/submit/package/effect.zip",
   "perfTested": true,

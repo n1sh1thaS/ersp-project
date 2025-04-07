@@ -8,7 +8,6 @@
 		{
 			"name": "Next",
 			"type": "Pulse",
-			"item_type": "",
 			"description": "Execute the next node",
 			"displayType": "Exec",
 			"nameKey": "graph_update_output_next",
@@ -18,7 +17,6 @@
 		{
 			"name": "Delta Time",
 			"type": "Double",
-			"item_type": "",
 			"description": "The number of seconds elapsed since last frame",
 			"displayType": "Number",
 			"nameKey": "graph_update_output_deltatime",
@@ -26,16 +24,13 @@
 			"displayTypeKey": "graph_type_number"
 		}
 	],
-	"scriptAPIVersion": "1.0.0",
 	"js": "CGOnUpdate.js",
-	"lua": "CGOnUpdate.lua",
 	"version": "1.0.1",
-	"amazingVersion": "10.40.0",
-	"luaFuncName": "CGOnUpdate",
 	"category": "Event",
-	"subCategory": "Lifecycle",
 	"description": "Execute the next node in every frame.",
-	"nodeEvent": "onUpdate",
+	"nodeEvent": [
+		"onUpdate"
+	],
 	"productTypes": [
 		"EHO",
 		"EHD",

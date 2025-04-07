@@ -14,8 +14,6 @@
 	],
 	"outputs": [],
 	"audioNodeName": "SinkNode",
-	"scriptSupport": "js",
-	"scriptAPIVersion": "1.0.0",
 	"js": "CGAudioExtractorOut.js",
 	"category": "Audio",
 	"description": "Play and detect the audio stream with no sound.",
